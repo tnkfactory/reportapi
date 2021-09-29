@@ -49,5 +49,5 @@
 
 (예)
 ```
-https://api2.tnkfactory.com/tnk/api/report/a1?logn_id=xxxx&date=20190810&timezone=-12&check_cd=xxxx[&cmpn_id=8852]
+https://api2.tnkfactory.com/tnk/api/report/a1?api_key=xxxx&date=20190810&timezone=-12&check_cd=xxxx[&cmpn_id=8852]
 ```
