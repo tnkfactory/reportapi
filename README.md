@@ -1,4 +1,4 @@
-# REPORT API
+# TNK REPORT API
 
 ## 광고 Report API
 * [Incentive](INCENTIVE_ADVERTISE_REPORT.md)
