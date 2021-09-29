@@ -42,7 +42,7 @@
   click : 총 클릭수
   cost : 수익금
   pay_cnt : 실적건수
-``
+```
    
   - return code
 ```
