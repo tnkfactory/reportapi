@@ -37,13 +37,14 @@
 ```
    
   - return code
-```
- 0 : succ
- 1 : no publisher
- 2 : wrong apikey
- 3 : invalid parameters
- 4 : request without valid check code
-```
+
+|응답코드| 내용|
+|:--:|:--|
+|  0 | succ |
+|  1 | no publisher |
+|  2 | wrong apikey |
+|  3 | invalid parameters |
+|  4 | request without valid check code |
 
 (예)
 ```
