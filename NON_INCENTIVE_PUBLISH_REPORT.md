@@ -1,4 +1,4 @@
-# NON-INCENTIVE PUBLISHER API
+# NON-INCENTIVE PUBLISH API
 ## 0. API KEY
    -  TNK 사이트에 연동인증키를 확인하거나 또는  담당자에게 전달 받습니다.
 
