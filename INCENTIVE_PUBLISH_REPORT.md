@@ -23,19 +23,20 @@
  }
 ```
   - columns
- ```
-  date : 날짜
-  hour : 시각(24시간기준)
-  timezone : 타임존
-  app_nm : 앱이름
-  app_id : APP ID
-  store_id : 앱패키지명
-  currency : 통화
-  imp : 노출수
-  click : 클릭수
-  pay_cnt : 실적수
-  cost :수익금
-```
+ 
+ |컬럼명|내용|
+ |:--|:--|
+ | date | 날짜 |
+ | hour | 시각(24시간기준) |
+ | timezone | 타임존 |
+ | app_nm | 앱이름 |
+ | app_id | APP ID |
+ | store_id | 앱패키지명 |
+ | currency | 통화 |
+ | imp | 노출수 |
+ | click | 클릭수 |
+ | pay_cnt | 실적수 |
+ | cost | 수익금 |
    
   - return code
 
