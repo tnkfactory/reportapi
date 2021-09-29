@@ -1,4 +1,4 @@
-# Publisher API
+# NON-INCENTIVE PUBLISHER API
 ## 0. API KEY
    -  TNK 사이트에 연동인증키를 확인하거나 또는  담당자에게 전달 받습니다.
 
@@ -56,5 +56,5 @@
 
 (예)
 ```
-https://api2.tnkfactory.com/tnk/api/report/m1?logn_id=xxxx&date=20160910&timezone=-12&check_cd=xxxx[&app_id=8852][&type=1]
+https://api2.tnkfactory.com/tnk/api/report/m1?api_key=xxxx&date=20160910&timezone=-12&check_cd=xxxx[&app_id=8852][&type=1]
 ```
