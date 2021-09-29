@@ -38,14 +38,15 @@
 ```
    
   - return code
-```
- 0 : succ
- 1 : no publisher
- 2 : no campaign
- 3 : request without valid check code
- 6 : login id not exist
- 8 : invalid parameters
-```
+
+|응답코드| 내용|
+|:--:|:--|
+|  0 | succ |
+|  1 | no publisher |
+|  2 | no campaign |
+|  3 | request without valid check code |
+|  6 | login id not exist |
+|  8 | invalid parameters |
 
 (예)
 ```
