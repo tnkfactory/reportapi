@@ -26,23 +26,24 @@
 ```
 
   - columns
-```
-  date : 날짜
-  hour : 시각(24시간기준)
-  timezone : 타임존
-  app_nm : 앱이름
-  app_id : APP ID
-  store_id : 앱패키지명
-  currency : 통화
-  freq : 전면광고 요청수
-  fad : 전면광고 노출수
-  imp : 총 노출수
-  fclick : 전면 광고 클릭수
-  vend : 비디오 시청 완료수
-  click : 총 클릭수
-  cost : 수익금
-  pay_cnt : 실적건수
-```
+
+|컬럼명|내용|
+|:--|:--|
+  | date | 날짜 |
+  | hour | 시각(24시간기준) |
+  | timezone | 타임존 |
+  | app_nm | 앱이름 |
+  | app_id | APP ID |
+  | store_id | 앱패키지명 |
+  | currency | 통화 |
+  | freq | 전면광고 요청수 |
+  | fad | 전면광고 노출수 |
+  | imp | 총 노출수 |
+  | fclick | 전면 광고 클릭수 |
+  | vend | 비디오 시청 완료수 |
+  | click | 총 클릭수 |
+  | cost | 수익금 |
+  | pay_cnt | 실적건수 |
    
   - return code
 
