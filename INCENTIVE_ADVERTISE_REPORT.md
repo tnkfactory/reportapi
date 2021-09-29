@@ -14,14 +14,14 @@
 
 ## 3. result (JSON)
   - data type:
-'''
+```
 {return:number,  
  report:[
      {date:"yyyyMMdd", timezone:number, campn_nm:"string", campn_id:number, store_id:"string", currency:"string", 
       data:[{hour:number, cost:number, click:number, pay_cnt:number}, ...]}
      ...]
  }
- '''
+ ```
 
   - columns
   -- date : 날짜
@@ -45,6 +45,6 @@
  -- 8 : invalid parameters
 
 (예)
-'''
+```
 https://api2.tnkfactory.com/tnk/api/report/a1?logn_id=xxxx&date=20190810&timezone=-12&check_cd=xxxx[&cmpn_id=8852]
-'''
+```
