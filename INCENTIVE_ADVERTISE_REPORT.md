@@ -42,7 +42,7 @@
   - return code
 
 |응답코드| 내용|
-|:--|:--|
+|:--:|:--|
 |  0 | succ |
 |  1 | no publisher |
 |  2 | no campaign |
