@@ -14,7 +14,7 @@
 
 ## 3. result (JSON)
   - data type:
-```
+```json
 {return:number,  
  report:[
      {date:"yyyyMMdd", timezone:number, campn_nm:"string", campn_id:number, store_id:"string", currency:"string", 
@@ -25,6 +25,7 @@
 
   - columns
   |컬럼명 |내용 |
+  |:--|:--|
   | date | 날짜|
    |hour | 시각(24시간기준)|
    |timezone | 타임존|
