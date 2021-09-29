@@ -24,28 +24,28 @@
  ```
 
   - columns
-  ```
-   date : 날짜
-   hour : 시각(24시간기준)
-   timezone : 타임존
-   campn_nm : 앱이름
-   campn_id : Campaign ID
-   store_id : 앱패키지명
-   currency : 통화
-   click :  광고 클릭수
-   cost : 광고비
-   pay_cnt : 전환수
-```
+  |컬럼명 |내용 |
+  | date | 날짜|
+   |hour | 시각(24시간기준)|
+   |timezone | 타임존|
+   |campn_nm | 앱이름|
+   |campn_id | Campaign ID|
+   |store_id | 앱패키지명|
+   |currency | 통화|
+   |click |  광고 클릭수|
+   |cost | 광고비|
+   |pay_cnt | 전환수|
+
    
   - return code
-```
-   0 : succ
-   1 : no publisher
-   2 : no campaign
-   3 : request without valid check code
-   6 : login id not exist
-   8 : invalid parameters
-```
+|응답코드| 내용|
+|  0 | succ |
+|  1 | no publisher |
+|  2 | no campaign |
+|  3 | request without valid check code |
+|  6 | login id not exist |
+|  8 | invalid parameters |
+
 
 (예)
 ```
