@@ -17,7 +17,7 @@
  ```
 {return:number,  
  report:[
-     {date:"yyyyMMdd", timezone:number, app_nm:"string", app_id:number, store_id:"string", currency:"string", 
+     {date:"yyyyMMdd", timezone:number, campn_nm:"string", campn_id:number, store_id:"string", currency:"string", 
       data:[{hour:number, imp:number, click:number, pay_cnt:number, cost:number}, ...]}
      ...]
  }
@@ -29,11 +29,10 @@
  | date | 날짜 |
  | hour | 시각(24시간기준) |
  | timezone | 타임존 |
- | app_nm | 앱이름 |
- | app_id | APP ID |
+ | campn_nm | 캠페인명 |
+ | campn_id | 캠페인 ID |
  | store_id | 앱패키지명 |
  | currency | 통화 |
- | imp | 노출수 |
  | click | 클릭수 |
  | pay_cnt | 실적수 |
  | cost | 수익금 |
