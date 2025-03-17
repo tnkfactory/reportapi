@@ -35,6 +35,7 @@
    |timezone | 타임존|
    |campn_nm | 앱이름|
    |campn_id | Campaign ID|
+   |link_id|외부광고 연동ID (연동 광고 인 경우에만 포함)|
    |store_id | 앱패키지명|
    |currency | 통화|
    |click |  광고 클릭수|
