@@ -3,7 +3,10 @@
    -  TNK 사이트에 연동인증키를 확인하거나 또는  담당자에게 전달 받습니다.
 
 ## 1. API URL
-  - http(s)://api2.tnkfactory.com/tnk/api/report/a1
+  - http(s)://api2.tnkfactory.com/tnk/api/report/a1   
+    > 등록된 전체 광고앱에 대한 데이터를 반환
+  - http(s)://api2.tnkfactory.com/tnk/api/report/a2
+    > 요청일자에 실적있는 광고앱에 대한 데이터를 반환
 
 ## 2. Request Parameters
    - api_key : 연동인증키
